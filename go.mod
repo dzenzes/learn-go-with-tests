@@ -1,10 +1,11 @@
 module github.com/dmies/learn-go-with-tests
 
-go 1.16
+go 1.17
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/go-delve/delve v1.7.1 // indirect
+	github.com/kisielk/errcheck v1.6.0 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
@@ -18,4 +19,5 @@ require (
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d // indirect
 	golang.org/x/sys v0.0.0-20210819072135-bce67f096156 // indirect
 	golang.org/x/tools v0.1.5 // indirect
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 )
